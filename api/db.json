@@ -1,0 +1,14 @@
+{
+  "product": [
+    {
+      "id": 1,
+      "name": "bear",
+      "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fvi.pngtree.com%2Ffreepng%2Fcartoon-bear-illustration_8789118.html&psig=AOvVaw0R1DlW0625Dwx3iWL2SWRw&ust=1700792634034000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKiqkbiI2YIDFQAAAAAdAAAAABAE"
+    },
+    {
+      "name": "aaaa",
+      "image": "https://firebasestorage.googleapis.com/v0/b/project-md2-92993.appspot.com/o/images%2Flennin-0180a-SfUwRA_800x800.png?alt=media&token=6b93a956-8310-484a-af74-003eae9e6fa9",
+      "id": 2
+    }
+  ]
+}
